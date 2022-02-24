@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgment of several eminent divines of the congregational vvay concerning a pastors power occasionally to exert ministerial acts in another church besides that which is his own particular flock.</title>
+            <author>Mather, Increase, 1639-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50212</idno>
+            <idno type="STC">Wing M1223</idno>
+            <idno type="STC">ESTC R41439</idno>
+            <idno type="EEBO-CITATION">31355351</idno>
+            <idno type="OCLC">ocm 31355351</idno>
+            <idno type="VID">110416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1746:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgment of several eminent divines of the congregational vvay concerning a pastors power occasionally to exert ministerial acts in another church besides that which is his own particular flock.</title>
+                  <author>Mather, Increase, 1639-1723.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Harris, and are to be sold by Richard Wilkins,</publisher>
+                  <pubPlace>Boston [Mass.] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped, tightly bound, and with print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Clergy --  Appointment, call, and election.</term>
+               <term>Clergy --  Appointment, call, and election.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110416:1" rendition="simple:additions"/>
+            <pb facs="tcp:110416:1" rendition="simple:additions"/>
+            <p>THE Judgment Of Several Eminent Divines OF THE Congregational VVay. Concerning A PASTORS POWER. Occaſionally to Exert Miniſterial ACTS in another CHURCH, beſides that which is His Own Particular FLOCK</p>
+            <p>
+               <hi>Boſton</hi> Printed by <hi>Benjamin Hurris,</hi> and are to be Sold by <hi>Richard Wilkins.</hi> 1692.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:110416:2"/>
+            <p>WE have carefully peruſed the following Diſcourſe, and Judg it to be, not only agreeable to true Congregational Prin<g ref="char:EOLhyphen"/>ciples, but alſo needful for the Information, and ſufficient for the Conviction of ſuch Churches as have been, or may be for any conſiderable time without the advantage of a Setled Miniſter a<g ref="char:EOLhyphen"/>mong them, that they may not be unneceſſarily deprived of the Enjoyment of thoſe Ordinances the Diſpenſation whereof is ſo much to be de<g ref="char:EOLhyphen"/>ſired: we do therefore Recommend it to the ſerious Conſideration of ſuch as Love <hi>Zions</hi> Proſperity.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>James Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Willard.</hi>
+                     </item>
+                     <item>
+                        <hi>Michael Wiggleſworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Cotton Mather.</hi>
+                     </item>
+                     <item>
+                        <hi>Nehemiah Walter.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110416:2"/>
+            <p>QUESTION.</p>
+            <p>
+               <hi>WHether the Paſtor of a particular Congregation may at the Deſire of another Church Exerciſe Ministeri<g ref="char:EOLhyphen"/>al Acts, and in ſpecial Diſpenſe the Seals to them that are not his peculiar Charge?</hi>
+            </p>
+            <p>
+               <hi>ANSWER.</hi>
+            </p>
+            <p>I Incline to the Affirmative; for,</p>
+            <p n="1">1. The Miniſterial Power, which a Paſtor has received from the Lord Chriſt, is not ſo confined to his particular Flock, as that He ſhall ceaſe to be a Miniſter when he does Act in the Name of the Lord elſewhere.</p>
+            <p>I cannot in this concur with the Opini<g ref="char:EOLhyphen"/>on of the Refuter of Dr. <hi>Downham</hi>'s Ser<g ref="char:EOLhyphen"/>mon, and ſome others, that a Paſtor of a Church, Preaching in another Congregation, Acts only as a Gifted Brother, and not as a Miniſter of the Lord.</p>
+            <p>I am as to this particular, fully of the ſame Judgment with the Learned Doctor <hi>John Owen,</hi> in his Judicious Treatiſe concerning a Goſpel Church, (p. 100, 101.) where he has theſe words: <hi>Altho' we have no concern<g ref="char:EOLhyphen"/>ment in the Figment of an indelible Character accompanying Sacred Orders, yet we do not think the Paſtoral Office is ſuch a thing, as a
+<pb n="2" facs="tcp:110416:3"/>man muſt leave behind him every time he goeth from Home. For my own part, if I did not think my ſelf bound to Preach as a Minister Authorized in all places, and on all occaſions when</hi> I <hi>am called thereunto, I think I ſhould never Preach more in this World.</hi> Thus ſpeaks our Famous <hi>Owen.</hi> A Paſtor does Preach as a Miniſter, and Bleſs in the Name of the Lord, as a Miniſter of His, wherever he may be occaſionally called there<g ref="char:EOLhyphen"/>to. And if he may, by vertue of his Office, Exert theſe Miniſterial Acts of Preaching and Bleſſing in other Congregations, why may He not Diſpenſe the Seals? ſure he may, unleſs he performs the other Acts not as an Officer, but as a Brother only. It is true; A Paſtor has not that Rule &amp; Authority in another Church, which the Lord Jeſus has given to him over that Flock, to which he is ſpecially related. Nevertheleſs, when another Church does deſire him, he has <hi>Potestas precaria,</hi> Power conferred on him for that Time and that Act. Whate<g ref="char:EOLhyphen"/>ver the Rule requires as neceſſary in order to Diſpenſing the Seals is here to be ſeen! <hi>E. G.</hi> The Diſpenſer muſt be ſet apart to act in the Name of the Lord in Holy Adminiſtrations, and he muſt by a Church of Chriſt be Choſen to Adminiſter to them; all which is true concerning the Paſtor of whom the Queſtion is.</p>
+            <p n="2">2. If the Paſtor of a Church may Admini<g ref="char:EOLhyphen"/>ſter the Sacrament to the Members of ano<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:110416:3"/>Congregation, and ſo to the whole Church in caſe they ſhall come to the Church, whereof he is Paſtor, and deſire ſuch occaſional Communion; He may upon as good Grounds go to the Town where the other Church dwelleth, and at their Re<g ref="char:EOLunhyphen"/>queſt Miniſter to them: For neither the Place, nor the Preſence of his own Flock, can make that which is in it ſelf contrary to the Rule of the Word become a regular Act. This Argument ſeems not eaſy to be anſwered, and therefore acute Mr. <hi>Hooker</hi> in<g ref="char:EOLhyphen"/>ſtead of ſolving it, does plainly cut it in pie<g ref="char:EOLhyphen"/>ces. For in his <hi>Survey of Church Diſcipline</hi> (which is an elaborate and accurate Piece) Part 2d. pag. 65. in anſwer to that Allegation, <hi>That Members of one Congregation may partake of the Sacrament in another, and then they Re<g ref="char:EOLhyphen"/>ceive it from one who is not their Paſtor;</hi> He replies thus, <hi>It has been a courſe which</hi> I <hi>have ever queſtioned, and againſt it many years have alledged many Arguments, and therefore could readily eaſe my ſelf of the Argument, by pro<g ref="char:EOLhyphen"/>feſſing the Courſe unwarrantable,</hi> &amp;c. But now there are few or none amongſt us, who ſcruple the Lawfulneſs of admitting Mem<g ref="char:EOLhyphen"/>bers of other Churches to their Communion. It uſes to be ſaid, they are <hi>Tranſient Mem<g ref="char:EOLhyphen"/>bers</hi> of the Church, where they Partake: And why may it not with as good reaſon be affirmed, that the Miniſter who Diſpenſeth
+<pb n="4" facs="tcp:110416:4"/>the Seals in another Congregation is a <hi>Tran<g ref="char:EOLhyphen"/>ſient Paſtor</hi>) for ought that I can diſcern to the contrary, there is as much Ground in the Scripture for <hi>Tranſient Officers,</hi> as there is for <hi>Tranſient Members.</hi>
+            </p>
+            <p>Whereas it is objected, that the Paſtor of another Church has no Authority by his Office to require them of another Church to Receive the Sacrament, as he may thoſe of his own Flock; It may be replyed, he has as much Power to do that, as he has to Enjoyn one of another Congregation occaſi<g ref="char:EOLhyphen"/>onally to receive, where he is not a Mem<g ref="char:EOLhyphen"/>ber. The Requeſt of the Perſons concerned doth ſufficiently Empower him <hi>pro hac vice</hi> to Exert a Miniſterial Act towards them.</p>
+            <p n="3">3. In the primitive and pure Times of the Chriſtian Church, not only the Apoſtles, but ordinary Paſtors of Churches did occaſional<g ref="char:EOLhyphen"/>ly Diſpenſe the Seals in other Churches, be<g ref="char:EOLhyphen"/>ſides thoſe wherein they were fixed. It is the Opinion of very Learned Men, that <hi>Po<g ref="char:EOLhyphen"/>lycarp</hi> was the Angel of the Church in <hi>Smyr<g ref="char:EOLhyphen"/>na,</hi> unto whom the Lord Jeſus directed that Epiſtle in <hi>Revolations,</hi> chap. 2. So <hi>Paraeus, Eſtius, Tirinus, Men<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chius, &amp;c.</hi> He was the Apoſtle <hi>Johns</hi> Scholar: And (as <hi>Hierom, Eu<g ref="char:EOLhyphen"/>ſebius,</hi> and other Eccleſiaſtick Writers, Teſtify) was by the Apoſtles themſelves Ordained the
+<pb n="5" facs="tcp:110416:4"/>Paſtor of that Church. This Holy Miniſter is not (as moſt Officers in the Seven Aſia<g ref="char:EOLhyphen"/>tick Churches were) blamed or reproved for any Fault. Yet did the Paſtor of that Church (if <hi>Polycarp</hi> was he) occaſionally Adminiſter the Lords Supper to the Chriſtians in <hi>Rome,</hi> where there was in thoſe Days a pure and a true Church. There was ſome Difference in Opinion between <hi>Anicetas</hi> the Paſtor of the Church in <hi>Rome,</hi> and <hi>Polycarp</hi> Paſtor of the Church at <hi>Smyrna,</hi> who undertook a long Journey from <hi>Smyrna</hi> to <hi>Rome,</hi> to Aſſiſt in compoſing the Differences about ſmall mat<g ref="char:EOLhyphen"/>ters, which in thoſe early days threatned the Churches. <hi>Anicetas,</hi> only to Teſtify his Love and Honour to <hi>Polycarp,</hi> requeſted him to Adminiſter the Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per to that Church, where not <hi>Polycarp</hi> but <hi>Anicetas</hi> was the Paſtor. <hi>Jrenaeus</hi> (Lib. 3. cap. 1.) ſays, that <hi>Polycarp</hi> always taught the Churches to obſerve thoſe things, which he Learned from the Apoſtles, and nothing elſe. If that be ſo, were the Apoſtles here, they would allow Paſtors occaſionally to Exerciſe Miniſterial Acts in other Congregations, be<g ref="char:EOLhyphen"/>ſides thoſe where they are fixed. See Mr. <hi>Foxes</hi> Martyrol. Vol. 1. p. 57.</p>
+            <p n="4">4. Eminent Men amongſt thoſe of the <hi>Congregational way,</hi> have been for the Affir<g ref="char:EOLhyphen"/>mative in the Queſtion before us; Indeed,
+<pb n="6" facs="tcp:110416:5"/>Rigid Separatiſts, Mr. <hi>Canne,</hi> and ſuch like <hi>Browniſts,</hi> have ſtiffly maintained that a Paſtor may not Exert an Official Act, except among his own peculiar Flock. But they that are truly Congregational have declared themſelves to be otherwiſe perſwaded. That the Firſt Elders in <hi>New-England</hi> were of this Judgment, I conclude from their <hi>Platform of Diſcipline,</hi> chap. 15. Sect. 4. Their words are theſe. <hi>The Members of one Church occaſionally coming unto another, we willingly admit them to partake of the Lords Table, it being the Seal of our Com<g ref="char:EOLhyphen"/>munion, not only with Chriſt, nor only with Members of our own Church, but alſo with all the Churches of the Saints; in which regard we refuſe not to Baptize their Children preſented to us, if either their own Miniſter be Abſent, or ſuch a fruit of Holy Fellowſhip be deſired with us. In like caſe ſuch Churches as are furniſhed with more Miniſters than one, do willingly af<g ref="char:EOLhyphen"/>ford one of their own Miniſters to ſupply the place of an abſent or ſick Miniſter of another Church for a needful Seaſon.</hi> That Platform of Church Diſcipline was in a peculiar manner the Compoſure of the Reverend Mr. <hi>Richard Mather,</hi> the Famous Teacher of the Church at <hi>Dorcheſter</hi> in <hi>New England.</hi> That he was for the Affirmative in the Queſtion before us is manifeſt from what yet remains, and is to be ſeen written with his own Hand. The Renowned Mr. <hi>Thomas Hooker</hi> of <hi>Hart<g ref="char:EOLhyphen"/>ford</hi>
+               <pb n="7" facs="tcp:110416:5"/>in <hi>New-England,</hi> deſired that ſome of the Miniſters in the <hi>Maſſachuſetts-Bay</hi> (and parti<g ref="char:EOLhyphen"/>cularly Mr. <hi>Mather</hi>) would communicate to him their Apprehenſions concerning this Poſi<g ref="char:EOLhyphen"/>tion: <hi>viz. The Entreaty of one Congregation does not give an Officer of another Congregation Power of Office to Administer Seals to their Aſſembly.</hi> Mr. <hi>Mathers</hi> Anſwer in a Letter Dated, <hi>Nov.</hi> 6. 1645. was in the following words. 1. <q>It ſeems an Officer of a Church may lawfully Diſpenſe Seals in another Church at their En<g ref="char:EOLhyphen"/>treaty and Requeſt. The Reaſon is becauſe there is a Communion between Churches, as Siſters; by vertue of which they are to take care, and do for one another, as each ones occaſion and neceſſity may require. <hi>Cant.</hi> 8.8. <hi>We have a Little Siſter, and ſhe has no Breaſts: what ſhall we do for her?</hi> Now if Churches muſt do Offices of Love and Helpfulneſs to one another, as each ones Occaſions ſhall need, they muſt alſo afford their Help in this particular, of Lending their Officers to Mini<g ref="char:EOLhyphen"/>ſter the Seals in their Aſſemblies. This par<g ref="char:EOLhyphen"/>ticular will follow from the General afore<g ref="char:EOLhyphen"/>mentioned, unleſs there be ſome particular Command from God prohibiting the ſame.</q>
+            </p>
+            <p n="2">2. <q>By this Communion of Churches it is lawful for a Paſtor, upon the Requeſt of a Member of another Church, to Adminiſter the Seals to that Member being preſent when the Paſtor is Adminiſtring to his own Church.
+<pb n="8" facs="tcp:110416:6"/>And if this be lawful, why not the other alſo? If Chriſtians may hold Communion one with another in the Works and Duties of each others Members Receiving the Sacra<g ref="char:EOLhyphen"/>ments; why not alſo in the Works and Du<g ref="char:EOLhyphen"/>ties of each others Miniſters Diſpenſing the ſame? For as the Miniſter ſtands in ſpecial Relation to his own Church, as a Miniſter, ſo a Member ſtands in ſpecial Relation to his own Church as a Member. If therefore the Member may be received into Communion in another Church for a time, or for one Act, as a Member, and yet his Memberly Relation to his own Church not be violated thereby; it ſeems as rational alſo, that a Mi<g ref="char:EOLhyphen"/>niſter of one Church may in like ſort be received into Communion in another Church for a time, or for one Act as a Miniſter, and yet his Miniſterial or Paſtoral Relation to his own Church not be violated thereby; for it is hard to conceive how ſuch an act of the Miniſter ſhould be prejudicial to his Re<g ref="char:EOLhyphen"/>lation to his own Church, as a Miniſter, any more than the Act of the Member be preju<g ref="char:EOLhyphen"/>dicial to his Relation, as a Member. Beſides, in the one caſe, a Miniſter doth what he doth only at the Requeſt of one Member, but in other there is the Requeſt of the whole Church. And if the one may be done by the Requeſt of one which is the leſs; why not the other, at the Requeſt of the whole Church, and which is greater?</q>
+            </p>
+            <pb n="9" facs="tcp:110416:6"/>
+            <p>
+               <q>If it be ſay'd, in the one Caſe a Miniſters own Church is preſent, but not in the o<g ref="char:EOLhyphen"/>ther.</q>
+            </p>
+            <p>
+               <hi>The Anſwer is;</hi>
+            </p>
+            <p n="1">1. <q>That the Members Church had as much need to be preſent, when the Member doth the Duty of a Member in Receiving the Seals, as the Miniſters Church, be preſent, when he does the Miniſters Duty in Diſpenſing the ſame.</q>
+            </p>
+            <p>
+               <q>If therefore a Member may do an Act and Work of a Member in the abſence of the Church, whereto he belongs; why may not the Miniſter alſo do an Act and Work of his Office, as a Miniſter in the abſence of that Church, whereto he moſt peculiarly is a Mini<g ref="char:EOLhyphen"/>ſter? I do not yet perceive how the preſence of the Miniſters Church is requiſite in the one caſe, any more than the preſence of the Church in the other.</q>
+            </p>
+            <p n="2">2. <q>I want a good Reaſon for this, that this Act of the Miniſter to Members of another Church ſhould be lawful in his own Church<g ref="char:EOLhyphen"/>es preſence, and unlawful in their abſence. If conſent be requiſite, that may be had, though they be not corporally preſent at all. But if the thing be unlawful in his Churches abſence it is not (for ought I know) his Churches preſence that will warrant or excuſe him there<g ref="char:EOLhyphen"/>in; no though his Church were all preſent, and though the Act he now doth to others,
+<pb n="10" facs="tcp:110416:7"/>be to no more but only to one Member of a<g ref="char:EOLhyphen"/>nother Church.</q> Thus Mr. <hi>Mather</hi> in his Let<g ref="char:EOLhyphen"/>ter to Mr. <hi>Hooker.</hi>
+            </p>
+            <p>Mr. <hi>Norton</hi> who was many Years an Eminent Teacher of the Church <hi>in Ipſwich,</hi> and after that at <hi>Boſton,</hi> his Anſwer to <hi>Apollonius</hi> is by <hi>Hornbeck</hi> and Others, Eſteemed the moſt Learned Book that has been Publiſhed in defence of Congrega<g ref="char:EOLhyphen"/>tional Principles. Now in that Book (Pag. 80. 81, 82.) he affirms, that tho' a Paſtor cannot Authoritatively perform the Miniſterial Acts of his Office in another Church, as he may in his own, nevertheleſs that Charitatively he may do it, Provided that the Exerciſe thereof be due<g ref="char:EOLhyphen"/>ly qualified, that is to ſay, that the Church where he does Miniſter ſhall requeſt him to perform Miniſterial Acts among them, and that the Church be neceſſitated to that requeſt which is the caſe (ſaith he) of an Inorganick Church with reſpect to the Adminiſtring of Sacraments<g ref="char:punc">▪</g> The exerciſe of Miniſterial Power thus qualify<g ref="char:EOLhyphen"/>ed is no way repugnant to the <hi>Liberty</hi> or <hi>Summi<g ref="char:EOLhyphen"/>ty</hi> of a particular Church.</p>
+            <p>Mr. <hi>Thomas Shepard,</hi> the firſt Paſtor of the Church at <hi>Cambridge</hi> in <hi>New England,</hi> and Mr. <hi>John Allyn,</hi> Paſtor of the Church at <hi>Dedham,</hi> in their defence of the <hi>Nine Poſitions</hi> (Printed in the Year 1648) in anſwer to Mr. <hi>Ball</hi> acknow<g ref="char:EOLhyphen"/>ledge that though a Miniſter has not ſuch power in another Church, as he has over them, that are his proper Flock<g ref="char:punc">▪</g> nevertheleſs that <hi>he may chari<g ref="char:EOLhyphen"/>tatively
+<pb n="11" facs="tcp:110416:7"/>put forth an Act of his Office to thoſe in ano<g ref="char:EOLhyphen"/>ther Church of whom he is no Officer.</hi> Pag. 132. 133. and again 134. in Anſwer to that Queſtion <hi>Whether a Miniſter may Adminiſter the Seals in a<g ref="char:EOLhyphen"/>nother Congregation?</hi> Their words are; <hi>We will not deny but that occaſionally being called thereunto by the deſire of the Church, he may Lawfully do the ſame.</hi> This was the Judgment of Mr. <hi>Shepard</hi> of <hi>Cambridge</hi> and Mr. <hi>Allyn</hi> of <hi>Dedham,</hi> both of them famous in <hi>New-England.</hi>
+            </p>
+            <p>Dr. <hi>Tho. Goodwin</hi> has truly ſtated and aſſert<g ref="char:EOLhyphen"/>ed the Congregational way, as it differs from <hi>Presbyterianiſm</hi> and <hi>Browniſm.</hi> Now that that great Divine was for the Affirmative in the Queſtion under Controverſy, is well known, and in a Letter of his to a Miniſter at <hi>Boſton</hi> in <hi>New-England,</hi> Dated <hi>March</hi> 25th. 1679. (which was not long before he was Tranſlated to Glory) His words are theſe; <q>A Church beginning to become a Church may have Liberty while without Elders to receive in or caſt out, as occaſion is, yet I do adviſe that they ſhould haſten to Chooſe Elders to thoſe Ends, or if they do not, that they may take the Elders of another Church, whom they confide in, and Electively Chooſe for that purpoſe, they may make uſe of them, he or they having Power conferred on them for that Act by the Brethren. This being my private Opinion that an Elder, one ſet apart for that Office in any Church is truly a Mini<g ref="char:EOLhyphen"/>ſter
+<pb n="12" facs="tcp:110416:8"/>occaſionally to Exerciſe Miniſterial Acts, as he is called thereunto; and this though it ſeems to warrant a conſtant Presbytery over other Churches, yet is clear a different thing; for ſuch a Presbytery is of a ſettled ordinary courſe, and will challenge the Power; not ſo here in this Caſe, it being Elective, and the power of chuſing whom and where arbitra<g ref="char:EOLhyphen"/>rily remaining in the Church as they ſhall judge <hi>Ita ſentio, ita ſenſi:</hi> and ſo I have pra<g ref="char:EOLhyphen"/>ctiſed in ordaining thoſe worthy Miniſters, Mr. <hi>George Griffith,</hi> and Mr. <hi>Lee</hi> to their Churches, being by them called thereunto; and thus our Elders do practiſe to this day. Every true Miniſter actually ſuch to his own Church is <hi>medium applicabile</hi> a Means and In<g ref="char:EOLhyphen"/>ſtrument that may apply to any Miniſterial Act out of his own Church in any other Church if he be called thereunto by them.</q> Thus <hi>Dr. Goodwin,</hi> a man never to be men<g ref="char:EOLhyphen"/>tioned without Reſpect and Honour. By theſe things we ſee what has been the Judgment of the moſt Eminent Miniſters of Chriſt amongſt thoſe that are called Congregational men. What the Sentiments of thoſe named Presbyterians have been, is needleſs to mention. Bleſſed be the Lord Jeſus Chriſt, in that there is cauſe to hope that thoſe Names of diſtinction are now at an end; ſince at <hi>London,</hi> and through out <hi>England</hi> they are become <hi>United Brethren.</hi>
+            </p>
+            <pb n="13" facs="tcp:110416:8"/>
+            <p>To conclude, <hi>I</hi> doubt not but that when a Siſter Church has no Teaching Officer, and conſe<g ref="char:EOLhyphen"/>quently no inſtituted Ordinances in a ſtated way adminiſtred amongſt them, for them to requeſt their Neighbours to diſpenſe the Seals to them, provided this ſhall not retard their Settlement under a Paſtor of their own, will be more plea<g ref="char:EOLhyphen"/>ſing to God, than for them to live from year to year like Pagans without any Sacraments, and perhaps multitudes of their Children not to be Marked for the Lambs of Chriſt; &amp; that Church<g ref="char:EOLhyphen"/>es (Paſtors and Bretheren) in a Vicinity may and ſhould in this way manifeſt their Brotherly kindneſs and communion. Canticles 8.8.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
